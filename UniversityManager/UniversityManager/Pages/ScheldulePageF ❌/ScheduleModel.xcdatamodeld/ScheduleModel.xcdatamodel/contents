@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21512" systemVersion="22A380" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Schedule" representedClassName="Schedule" syncable="YES" codeGenerationType="class">
+        <attribute name="date1" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="id1" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="oddMondayCabinet1" attributeType="String"/>
+        <attribute name="oddMondayName1" attributeType="String"/>
+        <attribute name="oddMondayType1" attributeType="String" defaultValueString="123"/>
+    </entity>
+</model>
